@@ -1,0 +1,1 @@
+nesse projeto iremos aprender alguns comandos basicos do git
